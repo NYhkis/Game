@@ -1,0 +1,309 @@
+#two{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#three{
+  position:absolute;
+  left:300px;
+  top:350px;
+}
+#boxes{
+  width:400px;
+  height: 400px;
+  border-style: solid;
+    border-width: 5px;
+}
+#start{
+  position:absolute;
+  top:170px;
+  left:160px;
+  font-size:40px;
+}
+#one{
+  position: absolute;
+  left:40px;
+  top:200px;
+}
+#four{
+  position:absolute;
+  left:300px;
+  top:20px;
+}
+#five{
+  position:absolute;
+  top:200px;
+  left:290px;
+}
+#six{
+  position:absolute;
+  top:350px;
+  left:100px;
+}
+#stage1{
+  position:absolute;
+  top:50px;
+  left:150px;
+}
+#stage2{
+    position:absolute;
+  top:50px;
+  left:150px;
+}
+#seven{
+  position:absolute;
+  top:200px;
+  left:200px;
+}
+#eight{
+  position:absolute;
+  top:100px;
+  left:30px;
+}
+#nine{
+  position:absolute;
+  top:350px;
+  left:250px;
+}
+#ten{
+  position:absolute;
+  top:40px;
+  left:40px;
+}
+#eleven{
+  position: absolute;
+  top: 200px;
+  left:330px;
+}
+#twelve{
+  position:absolute;
+  top:20px;
+  left:30px;
+}
+#stage3{
+   position:absolute;
+  top:50px;
+  left:150px;
+}
+#thirteen{
+  position:absolute;
+  left:20px;
+  top:370px;
+}
+#gameover{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#end{
+  position: absolute;
+  top:50px;
+  left:70px;
+  font-size:15px;
+}
+#fourteen{
+  position:absolute;
+  left:330px;
+  top:30px;
+}
+#fifteen{
+  position:absolute;
+  left:30px;
+  top:160px;
+}
+#sixteen{
+    position:absolute;
+  left:320px;
+  top:360px;
+}
+#seventeen{
+      position:absolute;
+  left:18px;
+  top:300px;
+}
+#eighteen{
+      position:absolute;
+  left:50px;
+  top:60px;
+}
+#nineteen{
+      position:absolute;
+  left:18px;
+  top:320px;
+}
+#twenty{
+      position:absolute;
+  left:300px;
+  top:20px;
+}
+#twentyone{
+      position:absolute;
+  top:320px;
+  left:300px;
+}
+#twentytwo{
+      position:absolute;
+  top:100px;
+  left:18px;
+}
+#twentytwo{
+      position:absolute;
+  top:20px;
+}
+#twentythree{
+      position:absolute;
+  top:200px;
+  left:300px;
+}
+#twentyfour{
+      position:absolute;
+  top:40px;
+  left:30px;
+}
+#twentyfive{
+      position:absolute;
+  left:260px;
+  top:100px;
+}
+#twentysix{
+      position:absolute;
+  left:18px;
+  top:350px;
+}
+#twentyseven{
+      position:absolute;
+  left:300px;
+  top:20px;
+}
+#twentyeight{
+      position:absolute;
+  left:190px;
+  top:200px;
+}
+#twentynine{
+      position:absolute;
+  left:18px;
+  top:400px;
+}
+#bomb{
+      position:absolute;
+  top:50px;
+  left:200px;
+}
+#bomb2{
+      position:absolute;
+  top:100px;
+  left:20px;
+}
+#bomb3{
+      position:absolute;
+  top:300px;
+  left:300px;
+}
+#bomb4{
+      position:absolute;
+  top:20px;
+  left:20px;
+}
+#bomb5{
+      position:absolute;
+  top:300px;
+  left:23px;
+}
+
+#bomb6{
+      position:absolute;
+  top:300px;
+  left:200px;
+}
+#bomb7{
+      position:absolute;
+  top:30px;
+  left:200px;
+}
+#bomb8{
+      position:absolute;
+   left:330px;
+  top:30px;
+}
+#bomb9{
+     position:absolute;
+  top:200px;
+  left:290px;
+}
+#bomb10{
+      position:absolute;
+    top:30px;
+  left:200px;
+}
+#bomb11{
+      position:absolute;
+   top:300px;
+  left:23px;
+}
+#bomb12{
+      position:absolute;
+  top:200px;
+  left:290px;
+}
+#bomb13{
+      position:absolute;
+   left:330px;
+  top:30px;
+}
+#bomb14{
+      position:absolute;
+   top:300px;
+  left:23px;
+}
+#bomb15{
+      position:absolute;
+    top:30px;
+  left:200px;
+}
+#bomb16{
+      position:absolute;
+  top:200px;
+  left:290px;
+}
+#bomb17{
+      position:absolute;
+   top:300px;
+  left:23px;
+}
+#bomb18{
+      position:absolute;
+    top:30px;
+  left:200px;
+}
+#bomb19{
+      position:absolute;
+   left:330px;
+  top:30px;
+}
+#bomb20{
+      position:absolute;
+   top:300px;
+  left:23px;
+}
+#bomb21{
+      position:absolute;
+    top:30px;
+  left:200px;
+}
+#bomb22{
+      position:absolute;
+  top:200px;
+  left:290px;
+}
+#bomb23{
+      position:absolute;
+   left:330px;
+  top:30px;
+}
+#bomb24{
+      position:absolute;
+   top:300px;
+  left:23px;
+}
+
