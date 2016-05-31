@@ -140,7 +140,7 @@ $("#thirteen").hide();
 $("#bomb2").show();
 $("#bomb2").fadeOut(1000);
 $("#fourteen").show();
-$("#fourteen").fadeOut(1000);
+$("#fourteen").fadeOut(1500);
  });
 
 $("#fourteen").click(function(){
@@ -148,7 +148,7 @@ $("#fourteen").hide();
 $("#bomb3").show();
 $("#bomb3").fadeOut(1000);
 $("#fifteen").show();
-$("#fifteen").fadeOut(1000);
+$("#fifteen").fadeOut(1500);
  });
 
 
@@ -157,7 +157,7 @@ $("#fifteen").hide();
 $("#bomb4").show();
 $("#bomb4").fadeOut(1000);
 $("#sixteen").show();
-$("#sixteen").fadeOut(1000);
+$("#sixteen").fadeOut(1500);
  });
 
 $("#sixteen").click(function(){
@@ -165,7 +165,7 @@ $("#sixteen").hide();
 $("#bomb5").show();
 $("#bomb5").fadeOut(1000);
 $("#seventeen").show();
-$("#seventeen").fadeOut(1000);
+$("#seventeen").fadeOut(1500);
  });
 
 $("#seventeen").click(function(){
@@ -174,8 +174,8 @@ $("#bomb6").show();
 $("#bomb6").fadeOut(500);
 $("#eighteen").show();
 $("#eighteen").fadeOut(500);
-$("#stage3").show();
-$("#stage3").fadeOut(2500);
+$("#stagefour").show();
+$("#stagefour").fadeOut(2500);
  });
 
 $("#eighteen").click(function(){
@@ -183,7 +183,7 @@ $("#eighteen").hide();
 $("#bomb7").show();
 $("#bomb7").fadeOut(500);
 $("#nineteen").show();
-$("#nineteen").fadeOut(500);
+$("#nineteen").fadeOut(1000);
  });
 
 $("#nineteen").click(function(){
@@ -191,7 +191,7 @@ $("#nineteen").hide();
 $("#bomb8").show();
 $("#bomb8").fadeOut(500);
 $("#twenty").show();
-$("#twenty").fadeOut(500);
+$("#twenty").fadeOut(1000);
  });
 
 $("#twenty").click(function(){
@@ -199,7 +199,7 @@ $("#twenty").hide();
 $("#bomb9").show();
 $("#bomb9").fadeOut(500);
 $("#twentyone").show();
-$("#twentyone").fadeOut(500);
+$("#twentyone").fadeOut(1000);
  });
 
 $("#twentyone").click(function(){
@@ -207,7 +207,7 @@ $("#twentyone").hide();
 $("#bomb10").show();
 $("#bomb10").fadeOut(500);
 $("#twentytwo").show();
-$("#twentytwo").fadeOut(500);
+$("#twentytwo").fadeOut(1000);
  });
 
 $("#twentytwo").click(function(){
@@ -215,7 +215,7 @@ $("#twentytwo").hide();
 $("#bomb11").show();
 $("#bomb11").fadeOut(500);
 $("#twentythree").show();
-$("#twentythree").fadeOut(500);
+$("#twentythree").fadeOut(1000);
  });
 
 $("#twentythree").click(function(){
@@ -227,7 +227,7 @@ $("#bomb13").fadeOut(300);
 $("#laststage").show();
 $("#laststage").fadeOut(1500);
 $("#twentyfour").show();
-$("#twentyfour").fadeOut(300);
+$("#twentyfour").fadeOut(500);
  });
 
 $("#twentyfour").click(function(){
@@ -237,7 +237,7 @@ $("#bomb14").fadeOut(300);
 $("#bomb15").show();
 $("#bomb15").fadeOut(300);
 $("#twentyfive").show();
-$("#twentyfive").fadeOut(300);
+$("#twentyfive").fadeOut(500);
  });
 
 $("#twentyfive").click(function(){
@@ -247,7 +247,7 @@ $("#bomb16").fadeOut(300);
 $("#bomb17").show();
 $("#bomb17").fadeOut(300);
 $("#twentysix").show();
-$("#twentysix").fadeOut(300);
+$("#twentysix").fadeOut(500);
  });
 
 $("#twentysix").click(function(){
@@ -257,7 +257,7 @@ $("#bomb18").fadeOut(300);
 $("#bomb19").show();
 $("#bomb19").fadeOut(300);
 $("#twentyseven").show();
-$("#twentyseven").fadeOut(300);
+$("#twentyseven").fadeOut(500);
  });
 
 $("#twentyfour").click(function(){
@@ -267,7 +267,7 @@ $("#bomb20").fadeOut(300);
 $("#bomb21").show();
 $("#bomb21").fadeOut(300);
 $("#twentyfive").show();
-$("#twentyfive").fadeOut(300);
+$("#twentyfive").fadeOut(500);
  });
 
 $("#twentysix").click(function(){
@@ -277,7 +277,7 @@ $("#bomb22").fadeOut(300);
 $("#bomb23").show();
 $("#bomb23").fadeOut(300);
 $("#twentyseven").show();
-$("#twentyseven").fadeOut(100);
+$("#twentyseven").fadeOut(400);
  });
 
 $("#twentyseven").click(function(){
@@ -285,7 +285,7 @@ $("#twentyseven").hide();
 $("#bomb24").show();
 $("#bomb24").fadeOut(300);
 $("#twentyeight").show();
-$("#twentyeight").fadeOut(100);
+$("#twentyeight").fadeOut(400);
  });
 
 $("#twentyeight").click(function(){
@@ -367,7 +367,6 @@ $("#bomb23").click(function(){
 $("#bomb24").click(function(){
   $("#gameover").show();
 });
-
 
 
 });
