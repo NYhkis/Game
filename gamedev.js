@@ -56,7 +56,7 @@ $("#bomb21").hide();
 $("#bomb22").hide();
 $("#bomb23").hide();
 $("#bomb24").hide();
-$("#stage4").hide();
+$("#stagefour").hide();
 $("#laststage").hide();
 $("#gameover").hide();
 $("#end").hide();
