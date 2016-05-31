@@ -367,6 +367,8 @@ $("#bomb23").click(function(){
 $("#bomb24").click(function(){
   $("#gameover").show();
 });
-
+$("#pagerefresh").click(function(){
+location.reload();
+});
 
 });
