@@ -75,6 +75,8 @@ $("#one").click(function(){
   $("#three").show();
    $("#three").fadeOut(2500);
   $("#one").hide();
+  $("#pagerefresh").hide();
+  $("#gameover").hide();
   $("#pagerefresh").delay(2500).fadeIn();
   $("#gameover").delay(2500).fadeIn();
 });
