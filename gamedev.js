@@ -86,7 +86,7 @@ $("#begin").click(function(){
 	$("#continue").delay(5000).fadeIn();
 	$("#word").delay(3000).fadeIn();
 	$("#wordtwo").delay(4000).fadeIn();
-})
+});
 $("#continue").click(function(){
 $("#word").hide();
 $("#wordtwo").hide();
@@ -116,6 +116,8 @@ $("#continuefour").delay(3000).fadeIn();
 
 $("#continuefour").click(function(){
 $("#continuefour").hide();
+$("#picture").hide();
+$("#di").hide():
 $("#start").show();
 $("#instruction").show();
 });
