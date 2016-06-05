@@ -81,11 +81,11 @@ $("#continuefour").hide();
 
 $("#begin").click(function(){
 	$("#begin").hide();
-	$("#di").show();
-	$("#picture").show();
-	$("#continue").delay(3000).fadeIn();
-	$("#word").delay(1000).fadeIn();
-	$("#wordtwo").delay(2000).fadeIn();
+	$("#di").delay(2000).fadeIn();
+	$("#picture").delay(1000).fadeIn();
+	$("#continue").delay(5000).fadeIn();
+	$("#word").delay(3000).fadeIn();
+	$("#wordtwo").delay(4000).fadeIn();
 })
 $("#continue").click(function(){
 $("#word").hide();
@@ -97,8 +97,8 @@ $("#continuetwo").delay(3000).fadeIn();
 });
 
 $("#continuetwo").click(function(){
-$("#wordtwo").hide();
 $("#wordthree").hide();
+$("#wordfour").hide();
 $("#wordfive").delay(1000).fadeIn();
 $("#wordsix").delay(2000).fadeIn();
 $("#continuetwo").hide();
