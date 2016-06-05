@@ -1,3 +1,81 @@
+#begin{
+  position:absolute;
+  top:170px;
+  left:160px;
+  font-size:40px;
+}
+#di{
+  position:absolute;
+  left:40px;
+  top:30px;
+}
+#picture{
+  position:absolute;
+  top:100px;
+  left:150px;
+}
+#word{
+  position:absolute;
+  top:50px;
+  left:50px;
+}
+#wordtwo{
+  position:absolute;
+  left:50px;
+  top:70px;
+}
+#wordthree{
+  position:absolute;
+  top:50px;
+  left:50px;
+}
+#wordfour{
+  position:absolute;
+  left:50px;
+  top:70px;
+}
+#wordfive{
+   position:absolute;
+  top:50px;
+  left:50px;
+}
+#wordsix{
+   position:absolute;
+  left:50px;
+  top:70px;
+}
+#wordseven{
+     position:absolute;
+  top:50px;
+  left:50px;
+  
+}
+#wordeight{
+   position:absolute;
+  left:50px;
+  top:70px;
+}
+#continue{
+  position:absolute;
+  left:100px;
+  top:120px;
+}
+#continuetwo{
+  position:absolute;
+  left:100px;
+  top:120px;
+}
+#continuethree{
+	position:absolute;
+  left:100px;
+  top:120px;
+}
+#continuefour{
+position:absolute;
+  left:100px;
+  top:120px;
+}
+
 #two{
   position:absolute;
   left:100px;

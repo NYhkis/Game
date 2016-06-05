@@ -1,4 +1,5 @@
 $( document ).ready(function() {
+$("#start").hide();
 $("#one").hide();
 $("#two").hide();
 $("#three").hide();
@@ -61,6 +62,61 @@ $("#laststage").hide();
 $("#gameover").hide();
 $("#end").hide();
 $("#pagerefresh").hide();
+$("#start").hide();
+$("#word").hide();
+$("#wordtwo").hide();
+$("#wordthree").hide();
+$("#wordfour").hide();
+$("#wordfive").hide();
+$("#wordsix").hide();
+$("#wordseven").hide();
+$("#wordeight").hide();
+$("#di").hide();
+$("#picture").hide();
+$("#continuetwo").hide();
+$("#continue").hide();
+$("#continuethree").hide();
+
+
+$("#begin").click(function(){
+	$("#begin").hide();
+	$("#di").show();
+	$("#picture").show();
+	$("#continue").delay(3000).fadeIn();
+	$("#word").delay(1000).fadeIn();
+	$("#wordtwo").delay(2000).fadeIn();
+})
+$("#continue").click(function(){
+$("#word").hide();
+$("#wordtwo").hide();
+$("#wordthree").delay(1000).fadeIn();
+$("#wordfour").delay(2000).fadeIn();
+$("#continue").hide();
+$("#continuetwo").delay(3000).fadeIn();
+});
+
+$("#continuetwo").click(function(){
+$("#wordtwo").hide();
+$("#wordthree").hide();
+$("#wordfive").delay(1000).fadeIn();
+$("#wordsix").delay(2000).fadeIn();
+$("#continuetwo").hide();
+$("#continuethree").delay(3000).fadeIn();
+});
+
+$("#continuethree").click(function(){
+$("#wordfive").hide();
+$("#wordsix").hide();
+$("#wordseven").delay(1000).fadeIn();
+$("#wordeight").delay(2000).fadeIn();
+$("#continuethree").hide();
+$("#continuefour").delay(3000).fadeIn();
+});
+
+$("#continuefour").click(function(){
+$("#continuefour").hide();
+$("#start").show();
+});
 
 $("#start").click(function(){
   $("#start").hide();
