@@ -1,5 +1,10 @@
-#picturetwo{
-	background-image:url('.../img/picture2.png');
+#b1{
+	background-image:url('.../img/picture2.png')
+}
+#skip{
+  position: absolute;
+  left:330px;
+  top:15px;
 }
 #begin{
   position:absolute;
@@ -99,13 +104,13 @@ position:absolute;
   position:absolute;
   top:170px;
   left:100px;
-  font-size:40px;
+  font-size:30px;
 }
 #instruction{
 	 position:absolute;
   top:170px;
-  left:220px;
-  font-size:40px;
+  left:200px;
+  font-size:30px;
 }
 #one{
   position: absolute;
@@ -402,4 +407,145 @@ position:absolute;
     position: absolute;
     top:250px;
     left:170px;
+}
+#gameover1{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover2{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover3{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover4{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover5{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover6{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover7{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover8{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover9{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover10{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover11{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover12{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover13{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover14{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover15{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover16{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover17{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover18{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover19{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover20{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover21{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover22{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover23{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover24{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover25{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover26{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+#gameover27{
+  position:absolute;
+  left:100px;
+  top:50px;
+}
+
+#gameover28{
+  position:absolute;
+  left:100px;
+  top:50px;
 }
