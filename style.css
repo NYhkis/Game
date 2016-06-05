@@ -400,28 +400,3 @@ position:absolute;
     top:250px;
     left:170px;
 }
-.ball{
-  background-color:blue;
-  width:100px;
-  height:100px;
-  border-radius:50%;
-  position:absolute;
-  left:0%;
-  top:0;
-}
-
-aside{
-  width:15%;
-  height:100%;
-  background-color:yellow;
-  position:absolute;
-  right:0;
-}
-
-.shoot{
-  width:75%;
-  height:20px;
-  position:absolute;
-  background-color:yellow;
-  right:15%;
-}

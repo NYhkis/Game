@@ -77,7 +77,7 @@ $("#continuetwo").hide();
 $("#continue").hide();
 $("#continuethree").hide();
 $("#instruction").hide();
-
+$("#continuefour").hide();
 
 $("#begin").click(function(){
 	$("#begin").hide();
@@ -495,31 +495,3 @@ location.reload();
 });
 
 });
-(function($){
-  var init = function(){
-  var rnd = Math.floor(1000 + (Math.random() * (5000 - 1000 + 1)));
-    debugger;
-    createBall();
-    setTimeout(init,rnd);
-  };
-  
-  var createBall = function(){
-    debugger;
-    var color = '#'+Math.floor(Math.random()*16777215).toString(16);
-    var Diameter = Math.floor(10 + (Math.random() * (100 - 10 + 1)));
-    var x = Math.floor(10 + (Math.random() * (80 - 10 + 1)));
-    var down = Math.floor(2000 + (Math.random() * (4000 - 2000 + 1)));
-    
-    $ball = $('<div></div>');
-    $ball.addClass('ball');
-    $ball.css('width', Diameter+'px');
-    $ball.css('height', Diameter+'px');
-    $ball.css('left',x+'%');
-    $ball.css('background-color',color);
-    $ball.appendTo('body');
-    $ball.animate({top:"100%"},{duration:down,complete:function(){
-      $(this).remove();
-    }});
-  };
-init();
-})(jQuery);
