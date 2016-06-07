@@ -148,13 +148,15 @@ position:absolute;
 }
 #stage1{
   position:absolute;
-  top:200px;
+  top:150px;
   left:550px;
+  font-size:60px;
 }
 #stage2{
     position:absolute;
-  top:200px;
+  top:150px;
   left:550px;
+  font-size: 60px;
 }
 #seven{
   position:absolute;
@@ -188,8 +190,9 @@ position:absolute;
 }
 #stage3{
    position:absolute;
-  top:200px;
+  top:150px;
   left:550px;
+  font-size: 60px;
 }
 #thirteen{
   position:absolute;
@@ -415,8 +418,9 @@ position:absolute;
 }
 #stagefour{
     position:absolute;
-    top:100px;
+    top:150px;
     left:550px;
+    font-size: 60px;
 }
 #pagerefresh{
     position: absolute;
