@@ -85,7 +85,7 @@ body{
   top:120px;
 }
 #continuethree{
-	position:absolute;
+  position:absolute;
   left:100px;
   top:120px;
 }
@@ -121,7 +121,7 @@ position:absolute;
   font-size:40px;
 }
 #instruction{
-	 position:absolute;
+   position:absolute;
   top:500px;
   left:500px;
   font-size:40px;
@@ -150,13 +150,13 @@ position:absolute;
   position:absolute;
   top:150px;
   left:550px;
-  font-size:60px;
+  font-size:20px;
 }
 #stage2{
     position:absolute;
   top:150px;
   left:550px;
-  font-size: 60px;
+  font-size:20px;
 }
 #seven{
   position:absolute;
@@ -192,17 +192,12 @@ position:absolute;
    position:absolute;
   top:150px;
   left:550px;
-  font-size: 60px;
+  font-size:20px;
 }
 #thirteen{
   position:absolute;
   left:170px;
   top:770px;
-}
-#gameover{
-  position:absolute;
-  left:500px;
-  top:200px;
 }
 #end{
   position: absolute;
@@ -420,7 +415,7 @@ position:absolute;
     position:absolute;
     top:150px;
     left:550px;
-    font-size: 60px;
+    font-size:20px;
 }
 #pagerefresh{
     position: absolute;
@@ -431,4 +426,77 @@ position:absolute;
   position:absolute;
   left:500px;
   top:200px;
+}
+#laststage{
+     position:absolute;
+    top:150px;
+    left:550px;
+    font-size:20px;
+}
+#box{
+position:absolute;
+  top:0px;
+  left:0px;
+}
+#iword{
+  position:absolute;
+  left:550px;
+  top:100px;
+}
+#iword2{
+  position:absolute;
+  left:550px;
+  top:130px;
+}
+#word3{
+  position:absolute;
+  left:550px;
+  top:160px;
+}
+#word4{
+  position:absolute;
+  left:550px;
+  top:190px;
+}
+#word5{
+  position:absolute;
+  left:550px;
+  top:220px;
+}
+#word6{
+  position:absolute;
+  left:550px;
+  top:250px;
+}
+#word7{
+  position:absolute;
+  left:550px;
+  top:280px;
+}
+#word8{
+  position:absolute;
+  left:550px;
+  top:310px;
+}
+#word9{
+  position:absolute;
+  left:550px;
+  top:340px;
+}
+#word10{
+  position:absolute;
+  left:550px;
+  top:370px;
+}
+#word11{
+  position:absolute;
+  left:550px;
+  top:410px;
+  font-size:30px;
+}
+#back{
+  position:absolute;
+  left:350px;
+  top:250px;
+  font-size:20px;
 }
