@@ -183,8 +183,6 @@ $("#five").click(function(){
   $("#six").show();
    $("#six").fadeOut(2500);
   $("#five").hide();
-  $("#pagerefresh").delay(5000).fadeIn();
-  $("#gameover").delay(5000).fadeIn();
 });
 $("#six").click(function(){
    $("#pagerefresh").hide();
